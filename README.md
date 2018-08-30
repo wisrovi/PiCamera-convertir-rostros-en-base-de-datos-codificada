@@ -16,4 +16,4 @@ En esta oportunidad y con la ayuda de la biblioteca para python3 face_recognitio
 
 Estas bases de datos las vamos a guardar en una carpeta llamada temporal.
 
-el archiv principal que vamos a usar es actualizarDatos.py este importara los demas archivos y sus funciones
+el archivo principal que vamos a usar es actualizarDatosRF.py este importara los demas archivos y sus funciones
